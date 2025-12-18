@@ -56,11 +56,11 @@ pytest
 - POST /items/ → Crée un item (JSON)
 
 ## 🛠 Technologies
-- Python
-- https://fastapi.tiangolo.com/
-- https://www.uvicorn.org/
-- https://www.docker.com/
-- https://docs.pytest.org/
+- [Python](https://www.python.org/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Uvicorn](https://www.uvicorn.org/)
+- [Docker](https://www.docker.com/)
+- [Pytest](https://docs.pytest.org/)
 
 ## 📜 Licence
-MIT
+- MIT

@@ -3,7 +3,8 @@
 # 🚀 API FastAPI - Projet Démo
 
 [![CI/CD MYFastAPI](https://github.com/Samou19/my_fastapi/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Samou19/my_fastapi/actions/workflows/ci-cd.yml)
-![Docker Pulls](https://img.shields.io/docker/pulls/Samou19/my_fastapi)
+![Docker Pulls](https://img.shields.io/docker/pulls/samou19/my-fastapi)
+![Docker Image Size](https://img.shields.io/docker/image-size/samou19/my-fastapi/latest)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 

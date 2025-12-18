@@ -55,7 +55,7 @@ pytest
 - GET /items/{item_id} → Retourne un item
 - POST /items/ → Crée un item (JSON)
 
-## 🚀 Déploiement sur Render (Synthèse)
+## 🚀 Déploiement sur Render
 
 - Créer un compte Render : https://render.com
 - Connecter ton dépôt GitHub et choisir la branche (ex. main).
@@ -64,9 +64,7 @@ pytest
 ```bash
 EXPOSE 10000
 ```
-- Tester après déploiement :
-
--- Swagger : https://<nom-du-service>.onrender.com/docs
+- Tester après déploiement : https://<nom-du-service>.onrender.com/docs
 
 
 

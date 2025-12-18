@@ -27,4 +27,3 @@ def read_item(item_id: int, q: str = None):
 def create_item(item: Item):
     return {"message": "Item créé avec succès",  "item": item}
 
-#

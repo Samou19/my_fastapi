@@ -53,6 +53,7 @@ jobs:
           echo "Votre image est disponible sur Docker Hub : https://hub.docker.com/r/${{ secrets.DOCKER_USERNAME }}/my-fastapi" > api_url.txt
 
       - name: Upload API URL artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
-                   name: api-url
+          name: api-url
+          path: api_url.txt

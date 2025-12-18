@@ -55,6 +55,21 @@ pytest
 - GET /items/{item_id} → Retourne un item
 - POST /items/ → Crée un item (JSON)
 
+## 🚀 Déploiement sur Render (Synthèse)
+
+- Créer un compte Render : https://render.com
+- Connecter ton dépôt GitHub et choisir la branche (ex. main).
+- Configurer le service 
+- Dockerfile requis
+```bash
+EXPOSE 10000
+```
+- Tester après déploiement :
+
+-- Swagger : https://<nom-du-service>.onrender.com/docs
+
+
+
 ## 🛠 Technologies
 - [Python](https://www.python.org/)
 - [FastAPI](https://fastapi.tiangolo.com/)

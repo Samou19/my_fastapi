@@ -2,8 +2,8 @@
 
 # 🚀 API FastAPI - Projet Démo
 
-![Build Status](https://github.com/<TON-UTILISATEUR>/<TON-REPO>/actions/workflows/ci-cd.yml/badge.svg)
-![Docker Pulls](https://img.shields.io/docker/pulls/<TON-UTILISATEUR>/my-fastapi)
+![Build Status](https://github.com/Samou19/my_fastapi/actions/runs/20350108775/workflow/ci-cd.yml/badge.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/Samou19/my-fastapi)
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -60,3 +60,6 @@ pytest
 - https://www.uvicorn.org/
 - https://www.docker.com/
 - https://docs.pytest.org/
+
+## 📜 Licence
+MIT

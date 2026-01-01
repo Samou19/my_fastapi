@@ -8,7 +8,29 @@
 ![Python Version](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+
+## Contexte
+En Data Science, la valeur ne se limite pas aux modèles prédictifs : elle se concrétise lorsqu’ils deviennent des solutions fiables, déployées et utilisées.
+Ce projet illustre ma capacité à industrialiser des solutions Data en appliquant les standards du marché.
+
+## Objectif
+Créer une API REST avec FastAPI, pensée pour être scalable et prête pour la production, tout en intégrant les bonnes pratiques MLOps et DevOps.
+
+## Pourquoi ce projet ?
+- Montrer comment industrialiser des solutions Data.
+- Partager des bonnes pratiques MLOps et DevOps.
+- Accompagner celles et ceux qui souhaitent monter en compétences sur FastAPI, Docker, CI/CD.
+
+## Ce que j’ai mis en place
+- Endpoints GET & POST avec validation des données via Pydantic
+- Tests unitaires automatisés avec Pytest
+- Pipeline CI/CD GitHub Actions : tests, build & push de l’image Docker sur DockerHub
+- Déploiement cloud sur Render avec conteneurisation Docker
+
+## Résultat
 Une API simple construite avec **FastAPI**, incluant des endpoints GET et POST, la validation des données avec **Pydantic**, et un déploiement via **Docker**.
+Ce projet démontre ma capacité à passer du modèle à la solution industrialisée, en respectant les standards du marché.
+
 
 ---
 
